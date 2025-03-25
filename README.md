@@ -27,7 +27,7 @@ This Power BI dashboard analyzes 4 years of sales, profit, discount patterns, an
 
 ## 📸 Screenshot
 
-![Dashboard Preview](assets/Dashboard.png)
+![Dashboard Preview](assests/Dashboard.png)
 
 ---
 
