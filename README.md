@@ -15,6 +15,10 @@ This Power BI dashboard analyzes 4 years of sales, profit, discount patterns, an
 - 🎯 Drillthroughs & Filters (Year, Category, Region)
 
 ---
+## 📹 Demo Video
+Watch it here: [Click to view](https://www.linkedin.com/posts/hima-sameera-munjampally-16893b171_powerbi-dataanalytics-dashboarddesign-activity-7317424282790162432-E4pu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjlOiABZ27BIxBHXPJPVNtzrfYH53KKa2k)
+
+---
 
 ## 🛠 Tools Used
 
