@@ -1,8 +1,17 @@
 # 🧠 Global Superstore Sales & Profitability Dashboard (2014–2017)
 
+## 🔍 Problem
+Leadership couldn’t pinpoint why revenue dropped across regions and products. There was no centralized view to analyze profit, shipping, or sales breakdowns.
+
+## ✅ Solution
+Built an interactive Power BI dashboard on 10K+ records using DAX and Power Query. Designed region-based drilldowns, trend visualizations, and KPI cards based on a star schema.
+
+## 💡 Impact
+Uncovered $156K in hidden revenue losses and allowed management to act on underperforming categories, regions, and shipping segments.
+
+## Objective
 This Power BI dashboard analyzes 4 years of sales, profit, discount patterns, and shipment types using the Global Superstore dataset. It provides deep insights into performance across product categories, regions, customer segments, and shipping modes — including unprofitable orders.
 
----
 
 ## 📊 Features
 
